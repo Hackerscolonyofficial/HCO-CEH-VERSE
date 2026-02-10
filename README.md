@@ -135,7 +135,7 @@ Ranks:
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/YOUR_USERNAME/HCO-CEH-VERSE.git
+git clone https://github.com/Hackerscolonyofficial/HCO-CEH-VERSE.git
 cd HCO-CEH-VERSE
 chmod +x HCO-CEH-VERSE.sh
 bash HCO-CEH-VERSE.sh
